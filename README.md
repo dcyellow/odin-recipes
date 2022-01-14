@@ -1,1 +1,1 @@
-Project: Recipes - I will demonstrate using HTML to make a recipe website.
+Project: Recipes - I will demonstrate using HTML to make a recipes website
